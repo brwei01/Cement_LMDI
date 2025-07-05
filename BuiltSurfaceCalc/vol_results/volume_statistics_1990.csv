@@ -1,0 +1,290 @@
+﻿ISO_A3,ISO_A2,WB_A3,HASC_0,GAUL_0,WB_REGION,WB_STATUS,SOVEREIGN,NAM_0,total_vol
+CHN,CN,CHN,CN,147295,EAP,Member State,CHN,China,227798394945.0
+JPN,JP,JPN,JP,126,Other,Member State,JPN,Japan,81385577284.0
+KOR,KR,KOR,KR,202,EAP,Member State,KOR,Republic of Korea,16407122556.0
+PRK,KP,PRK,KP,67,Other,Non Member State,PRK,D. P. R. of Korea,1789252256.0
+RUS,RU,RUS,RU,204,ECA,Member State,RUS,Russian Federation,47722306710.0
+IND,IN,IND,IN,115,SAR,Member State,IND,India,77959244908.0
+KAZ,KZ,KAZ,KZ,132,ECA,Member State,KAZ,Kazakhstan,6957149241.0
+KGZ,KG,KGZ,KG,138,ECA,Member State,KGZ,Kyrgyz Republic,1784855234.0
+MMR,MM,MMR,MM,171,EAP,Member State,MMR,Myanmar,3476961100.0
+MNG,MN,MNG,MN,0,EAP,Member State,MNG,Mongolia,673451684.0
+VNM,VN,VNM,VN,264,EAP,Member State,VNM,Viet Nam,7311002318.0
+AFG,AF,AFG,AF,1,SAR,Member State,AFG,Afghanistan,1296904737.0
+ARE,AE,ARE,AE,255,MENA,Member State,ARE,United Arab Emirates,2227814179.0
+AZE,AZ,AZE,AZ,0,ECA,Member State,AZE,Azerbaijan,2641707147.0
+BLR,BY,BLR,BY,26,ECA,Member State,BLR,Belarus,4105936687.0
+BTN,BT,BTN,BT,31,SAR,Member State,BTN,Bhutan,42728846.0
+GEO,GE,GEO,GE,0,ECA,Member State,GEO,Georgia,1856941269.0
+IRN,IR,IRN,IR,117,MENA,Member State,IRN,Islamic Republic of Iran,13694277311.0
+LVA,LV,LVA,LV,140,ECA,Member State,LVA,Latvia,786377235.0
+MDA,MD,MDA,MD,0,ECA,Member State,MDA,Moldova,1646259836.0
+NPL,NP,NPL,NP,175,SAR,Member State,NPL,Nepal,1645317059.0
+OMN,OM,OMN,OM,187,MENA,Member State,OMN,Oman,1588003746.0
+PAK,PK,PAK,PK,188,SAR,Member State,PAK,Pakistan,12915770320.0
+ROU,RO,ROM,,0,ECA,Member State,ROM,Romania,6183721547.0
+TJK,TJ,TJK,TJ,239,ECA,Member State,TJK,Tajikistan,2022977909.0
+TKM,TM,TKM,TM,250,ECA,Member State,TKM,Turkmenistan,2163271893.0
+TUR,TR,TUR,TR,249,ECA,Member State,TUR,TÃ¼rkiye,11860731232.0
+UKR,UA,UKR,UA,254,ECA,Member State,UKR,Ukraine,15046405659.0
+UZB,UZ,UZB,UZ,261,ECA,Member State,UZB,Uzbekistan,12006633442.0
+ARM,AM,ARM,AM,13,ECA,Member State,ARM,Armenia,1092720615.0
+BHR,BH,BHR,BH,21,MENA,Member State,BHR,Bahrain,457976184.0
+CYP,CY,CYP,CY,0,ECA,Member State,CYP,Cyprus,485380666.0
+DJI,DJ,DJI,DJ,70,MENA,Member State,DJI,Djibouti,44368967.0
+EGY,EG,EGY,EG,40765,MENA,Member State,EGY,Arab Republic of Egypt,12617360969.0
+ERI,ER,ERI,ER,77,AFR,Member State,ERI,Eritrea,168075628.0
+ETH,ET,ETH,ET,0,AFR,Member State,ETH,Ethiopia,2751074966.0
+FIN,FI,FIN,FI,84,Other,Member State,FIN,Finland,1483935917.0
+GBR,GB,GBR,GB,256,Other,Territory,GBR,Sovereign Base Areas of Akrotiri and Dhekelia (U.K.),9159937.0
+IRQ,IQ,,IQ,118,MENA,Member State,IRQ,Iraq,4647245483.0
+ISR,IL,ISR,IL,121,Other,Member State,ISR,Israel,2218197015.0
+JOR,JO,JOR,JO,130,MENA,Member State,JOR,Jordan,1279344987.0
+KEN,KE,KEN,KE,133,AFR,Member State,KEN,Kenya,3151973275.0
+KWT,KW,KWT,KW,137,MENA,Member State,KWT,Kuwait,1727178273.0
+LBN,LB,LBN,LB,141,MENA,Member State,LBN,Lebanon,1281434193.0
+NOR,NO,NOR,NO,186,Other,Member State,NOR,Norway,1059481044.0
+PSE,GZ,WBG,PS,91,MENA,Territory,PSE,West Bank and Gaza,899711395.0
+QAT,QA,QAT,QA,201,MENA,Member State,QAT,Qatar,775181738.0
+SAU,SA,SAU,SA,215,MENA,Member State,SAU,Saudi Arabia,10790642963.0
+SDN,SD,SDN,SD,6,AFR,Member State,SDN,Sudan,4360268503.0
+SOM,SO,SOM,SO,226,AFR,Member State,SOM,Somalia,526776722.0
+SSD,SS,SSD,SS,74,AFR,Member State,SSD,South Sudan,209763810.0
+SYR,SY,SYR,SY,238,MENA,Member State,SYR,Syrian Arab Republic,3437159900.0
+UGA,UG,UGA,UG,253,AFR,Member State,UGA,Uganda,2506977975.0
+UKR,UA,UKR,UA,0,ECA,Member State,UKR,Ukraine,1094824535.0
+YEM,RY,YEM,YE,269,MENA,Member State,YEM,Republic of Yemen,1070577185.0
+ATF,TF,ATF,TF,88,Other,Territory,FRA,French Southern and Antarctic Lands (Fr.),200481.0
+BDI,BI,BDI,BI,0,AFR,Member State,BDI,Burundi,531285736.0
+COD,ZR,DRC,CD,0,AFR,Member State,COD,Democratic Republic of Congo,7357049589.0
+COM,KM,COM,KM,58,AFR,Member State,COM,Comoros,115423971.0
+DNK,DK,DNK,DK,69,Other,Member State,DNK,Denmark,2791003532.0
+EST,EE,EST,EE,78,ECA,Member State,EST,Estonia,589680521.0
+GRC,GR,GRC,GR,97,Other,Member State,GRC,Greece,4269545004.0
+HMD,HM,HMD,HM,109,Other,Territory,AUS,Heard Island and McDonald Islands (Aus.),0.0
+LKA,LK,LKA,LK,0,SAR,Member State,LKA,Sri Lanka,2169002849.0
+LSO,LS,LSO,LS,0,AFR,Member State,LSO,Lesotho,383584949.0
+MDG,MG,MDG,MG,0,AFR,Member State,MDG,Madagascar,1673828254.0
+MDV,MV,MDV,MV,154,SAR,Member State,MDV,Maldives,8662836.0
+MOZ,MZ,MOZ,MZ,0,AFR,Member State,MOZ,Mozambique,2931272391.0
+MUS,MU,MUS,MU,160,AFR,Member State,MUS,Mauritius,286646975.0
+MWI,MW,MWI,MW,152,AFR,Member State,MWI,Malawi,1828414799.0
+REU,RE,FRA,FR,206,Other,Member State,FRA,France,238045435.0
+RWA,RW,RWA,RW,205,AFR,Member State,RWA,Rwanda,910391104.0
+SWE,SE,SWE,SE,236,Other,Member State,SWE,Sweden,3426277794.0
+SWZ,SZ,SWZ,SZ,0,AFR,Member State,SWZ,Eswatini,124339072.0
+SYC,SC,SYC,SC,220,AFR,Member State,SYC,Seychelles,14139275.0
+TZA,TZ,TZA,TZ,257,AFR,Member State,TZA,Tanzania,5812852635.0
+ZAF,ZA,ZAF,ZA,0,AFR,Member State,ZAF,South Africa,19271495695.0
+ZMB,ZM,ZMB,ZM,0,AFR,Member State,ZMB,Zambia,2771250694.0
+ZWE,ZW,ZWE,ZW,271,AFR,Member State,ZWE,Zimbabwe,1538197666.0
+ALA,AX,FIN,FI,84,Other,Territory,FIN,Aaland (Fin.),6187807.0
+BGR,BG,BGR,BG,41,ECA,Member State,BGR,Bulgaria,2879127966.0
+CZE,CZ,CZE,CZ,65,ECA,Member State,CZE,Czech Republic,4340171677.0
+LTU,LT,LTU,LT,147,ECA,Member State,LTU,Lithuania,1548760230.0
+MYT,YT,FRA,FR,161,Other,Member State,FRA,France,49513419.0
+POL,PL,POL,PL,198,ECA,Member State,POL,Poland,12680000941.0
+SJM,SJ,SJM,SJ,234,Other,Territory,NOR,Svalbard and Jan Mayen (Nor.),99182.0
+SVK,SK,SVK,SK,223,ECA,Member State,SVK,Slovak Republic,2175722735.0
+ALB,AL,ALB,AL,3,ECA,Member State,ALB,Albania,523878865.0
+AUT,AT,AUT,AT,18,Other,Member State,AUT,Austria,3525009829.0
+BEL,BE,BEL,BE,27,Other,Member State,BEL,Belgium,5861041752.0
+BIH,BA,BIH,BA,34,ECA,Member State,BIH,Bosnia and Herzegovina,844080507.0
+DEU,DE,DEU,DE,93,Other,Member State,DEU,Germany,38951041701.0
+FRA,FR,FRA,FR,85,Other,Member State,FRA,France,34166111793.0
+GBR,GB,GBR,GB,256,Other,Member State,GBR,United Kingdom,25043571847.0
+GGY,GG,GGY,GG,104,Other,Territory,GBR,Guernsey (U.K.),16634762.0
+HRV,HR,HRV,HR,62,ECA,Member State,HRV,Croatia,1400190779.0
+HUN,HU,HUN,HU,113,ECA,Member State,HUN,Hungary,4374510205.0
+IMN,IM,IMY,IM,120,Other,Territory,GBR,Isle of Man (U.K.),18588753.0
+IRL,IE,IRL,IE,119,Other,Member State,IRL,Ireland,1842702017.0
+ITA,IT,ITA,IT,122,Other,Member State,ITA,Italy,28895273916.0
+JEY,JE,JEY,JE,128,Other,Territory,GBR,Jersey (U.K.),26666866.0
+LUX,LU,LUX,LU,148,Other,Member State,LUX,Luxembourg,245233519.0
+MKD,MK,MKD,MK,241,ECA,Member State,MKD,North Macedonia,538791315.0
+MNE,ME,MNE,ME,2647,ECA,Member State,MNE,Montenegro,128048269.0
+NLD,NL,NLD,NL,177,Other,Member State,NLD,Netherlands,7952199160.0
+SRB,YF,SRB,RS,2648,ECA,Member State,SRB,Serbia,2371513458.0
+SVN,SI,SVN,SI,224,ECA,Member State,SVN,Slovenia,742237834.0
+XKX,XK,XKX,XK,75008,ECA,Member State,XKX,Kosovo,204764262.0
+AND,AD,ADO,AD,7,Other,Member State,AND,Andorra,5046192.0
+CHE,CH,CHE,CH,237,Other,Member State,CHE,Switzerland,3198012451.0
+DZA,DZ,DZA,DZ,4,MENA,Member State,DZA,Algeria,6591440880.0
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,Ceuta (Sp.),18250951.0
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,Las Islas Chafarinas (Sp.),
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,Melilla (Sp.),17813479.0
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,PeÃ±Ã³n de Alhucaimas (Sp.),
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,PeÃ±Ã³n de VÃ©lez de la Gomera (Sp.),
+ESP,ES,ESP,ES,229,Other,Member State,ESP,Spain,18160637042.0
+FRO,FO,FRO,FO,82,Other,Territory,DNK,Faroe Islands (Den.),199192.0
+GIB,GI,GBR,GB,0,Other,Territory,GBR,Gibraltar (U.K.),8112798.0
+LBY,LY,LBY,LY,145,MENA,Member State,LBY,Libya,3047701394.0
+LIE,LI,LIE,LI,146,Other,Non Member State,LIE,Liechtenstein,16956212.0
+MAR,MA,MAR,MA,169,MENA,Member State,MAR,Morocco,2751671249.0
+MCO,MC,MCO,MC,166,Other,Non Member State,MCO,Monaco,11993569.0
+MLT,MT,MLT,MT,156,MENA,Member State,MLT,Malta,228646943.0
+PRT,PT,PRT,PT,74578,Other,Member State,PRT,Portugal,69407565.0
+PRT,PT,PRT,PT,199,Other,Member State,PRT,Portugal,3866158578.0
+PRT,PT,PRT,PT,151,Other,Member State,PRT,Portugal,47136783.0
+SMR,SM,SMR,SM,213,Other,Member State,SMR,San Marino,17609312.0
+TUN,TN,TUN,TN,248,MENA,Member State,TUN,Tunisia,3438850965.0
+VAT,VA,VAT,VA,110,Other,Non Member State,VAT,Vatican City,2706750.0
+BEN,BJ,BEN,,0,AFR,Member State,BEN,Benin,1815403507.0
+BFA,BF,BFA,BF,42,AFR,Member State,BFA,Burkina Faso,1618574322.0
+CAF,CF,CAF,CF,49,AFR,Member State,CAF,Central African Republic,580642182.0
+CIV,CI,CIV,CI,66,AFR,Member State,CIV,CÃ´te d'Ivoire,3871121445.0
+CMR,CM,CMR,CM,45,AFR,Member State,CMR,Cameroon,3739261986.0
+GHA,GH,GHA,GH,0,AFR,Member State,GHA,Ghana,5283267563.0
+ISL,IS,ISL,IS,114,Other,Member State,ISL,Iceland,97140513.0
+MLI,ML,MLI,ML,0,AFR,Member State,MLI,Mali,2134428814.0
+NER,NE,NER,NE,0,AFR,Member State,NER,Niger,1071854507.0
+NGA,NG,NGA,NG,0,AFR,Member State,NGA,Nigeria,22537013795.0
+TCD,TD,TCD,TD,50,AFR,Member State,TCD,Chad,1028326229.0
+TGO,TG,TGO,TG,0,AFR,Member State,TGO,Togo,1070959998.0
+USA,US,USA,US,259,Other,Member State,USA,United States of America,220192056592.0
+AGO,AO,AGO,AO,8,AFR,Member State,AGO,Angola,3679652565.0
+BWA,BW,BWA,BW,35,AFR,Member State,BWA,Botswana,1260721346.0
+COG,CG,COG,CG,59,AFR,Member State,COG,Congo,1000559075.0
+GAB,GA,GAB,GA,89,AFR,Member State,GAB,Gabon,723287622.0
+GNQ,GQ,GNQ,GQ,76,AFR,Member State,GNQ,Equatorial Guinea,161707185.0
+GRL,GL,GRL,GL,98,Other,Territory,DNK,Greenland (Den.),6097529.0
+LBR,LR,LBR,LR,144,AFR,Member State,LBR,Liberia,633338880.0
+NAM,NA,NAM,NA,172,AFR,Member State,NAM,Namibia,611990328.0
+ZWE,ZW,ZWE,,0,AFR,Member State,ZWE,Zimbabwe,303027.0
+BRA,BR,BRA,BR,37,LCR,Member State,BRA,Brazil,58209063124.0
+BVT,BV,BVT,BV,36,Other,Territory,NOR,Bouvet Island (Nor.),0.0
+CPV,CV,CPV,CV,0,AFR,Member State,CPV,Cabo Verde,87495838.0
+FJI,FJ,FJI,FJ,83,EAP,Member State,FJI,Fiji,366429704.0
+GIN,GN,GIN,GN,106,AFR,Member State,GIN,Guinea,1614213807.0
+MRT,MR,MRT,MR,0,AFR,Member State,MRT,Mauritania,293913813.0
+SHN,SH,SHN,SH,207,Other,Territory,GBR,"Saint Helena, Ascension and Tristan da Cunha (U.K.)",1367433.0
+STP,ST,STP,ST,214,AFR,Member State,STP,SÃ£o TomÃ© and PrÃ­ncipe,29173082.0
+GMB,GM,GMB,GM,0,AFR,Member State,GMB,The Gambia,346234851.0
+GNB,GW,GNB,GW,105,AFR,Member State,GNB,Guinea-Bissau,235527196.0
+GUM,GU,GUM,GU,101,Other,Territory,USA,Guam (U.S.),66878480.0
+MNP,MP,MNP,MP,185,Other,Territory,USA,Northern Mariana Islands (U.S.),13975030.0
+PHL,PH,PHL,PH,0,EAP,Member State,PHL,Philippines,7236298610.0
+SEN,SN,SEN,SN,0,AFR,Member State,SEN,Senegal,1774707455.0
+SLE,SL,SLE,SL,221,AFR,Member State,SLE,Sierra Leone,621985284.0
+UMI,UM,UMI,UM,265,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),101352.0
+BGD,BD,BGD,BD,23,SAR,Member State,BGD,Bangladesh,5100541321.0
+BRN,BN,BRN,BN,40,Other,Member State,BRN,Brunei Darussalam,165065495.0
+HKG,HK,HKG,HK,33364,EAP,Special Administrative Region,CHN,"Hong Kong SAR, China",819205865.0
+IDN,ID,IDN,ID,116,EAP,Member State,IDN,Indonesia,34904997381.0
+KHM,KH,KHM,KH,0,EAP,Member State,KHM,Cambodia,954648678.0
+LAO,LA,LAO,LA,139,EAP,Member State,LAO,Lao People's Democratic Republic,476851031.0
+MAC,MO,MAC,MO,149,EAP,Special Administrative Region,CHN,"Macau SAR, China",91775055.0
+MYS,MY,MYS,MY,153,EAP,Member State,MYS,Malaysia,6499526229.0
+PLW,PW,PLW,PW,189,EAP,Member State,PLW,Palau,2164886.0
+THA,TH,THA,TH,240,EAP,Member State,THA,Thailand,14969284607.0
+TLS,TP,TMP,TL,242,EAP,Member State,TLS,Timor-Leste,118520679.0
+AUS,AU,AUS,AU,17,Other,Member State,AUS,Australia,20114451945.0
+NFK,NF,NFK,NF,184,Other,Territory,AUS,Norfolk Island (Aus.),1317135.0
+NZL,NZ,NZL,NZ,179,Other,Member State,NZL,New Zealand,5500760185.0
+PNG,PG,PNG,PG,192,EAP,Member State,PNG,Papua New Guinea,405144978.0
+SGP,SG,SGP,SG,222,Other,Member State,SGP,Singapore,1424096955.0
+TUV,TV,TUV,TV,252,EAP,Member State,TUV,Tuvalu,949069.0
+VUT,VU,VUT,VU,262,EAP,Member State,VUT,Vanuatu,37289257.0
+AIA,AI,AIA,AI,9,Other,Territory,GBR,Anguilla (U.K.),7850727.0
+ATG,AG,ATG,AG,11,LCR,Member State,ATG,Antigua and Barbuda,42149862.0
+AUS,AU,AUS,AU,16,Other,Territory,AUS,Ashmore and Cartier Islands (Aus.),
+BES,BQ,BES,BQ,75003,Other,Territory,NLD,"Bonaire, Sint Eustatius and Saba (Neth.)",278603.0
+BES,BQ,BES,BQ,75004,Other,Territory,NLD,"Bonaire, Sint Eustatius and Saba (Neth.)",1226066.0
+BLM,BL,BLM,BL,75006,Other,Territory,FRA,Saint-BarthÃ©lemy (Fr.),3142399.0
+BMU,BM,BMU,BM,30,Other,Territory,GBR,Bermuda (U.K.),30315023.0
+BRB,BB,BRB,BB,24,LCR,Member State,BRB,Barbados,155409283.0
+CAN,CA,CAN,CA,46,Other,Member State,CAN,Canada,19683814905.0
+CCK,CC,CCK,CC,56,Other,Territory,AUS,Cocos (Keeling) Islands (Aus.),70220.0
+CXR,CX,CXR,CX,54,Other,Territory,AUS,Christmas Island (Aus.),990080.0
+DMA,DM,DMA,DM,71,LCR,Member State,DMA,Dominica,14133940.0
+DOM,DO,DOM,DO,72,LCR,Member State,DOM,Dominican Republic,1354357670.0
+FSM,FM,FSM,FM,163,EAP,Member State,FSM,Federated States of Micronesia,12030271.0
+GLP,GP,FRA,FR,100,Other,Member State,FRA,France,250566068.0
+GRD,GD,GRD,GD,99,LCR,Member State,GRD,Grenada,23054401.0
+GUF,GF,FRA,FR,86,Other,Member State,FRA,France,52271923.0
+GUY,GY,GUY,GY,107,LCR,Member State,GUY,Guyana,84236726.0
+KNA,KN,KNA,KN,208,LCR,Member State,KNA,Saint Kitts and Nevis,22573081.0
+LCA,LC,LCA,LC,209,LCR,Member State,LCA,Saint Lucia,44984822.0
+MAF,MF,MAF,MF,75007,Other,Territory,FRA,Saint-Martin (Fr.),10080178.0
+MHL,MH,MHL,MH,157,EAP,Member State,MHL,Marshall Islands,3038945.0
+MSR,MS,MSR,MS,168,Other,Territory,GBR,Montserrat (U.K.),1682176.0
+MTQ,MQ,FRA,FR,158,Other,Member State,FRA,France,178206257.0
+NCL,NC,NCL,NC,178,Other,Territory,FRA,New Caledonia (Fr.),157103803.0
+NRU,NR,NRU,NR,173,EAP,Member State,NRU,Nauru,1826952.0
+PRI,PR,PRI,PR,200,Other,Territory,USA,Puerto Rico (U.S.),2146204066.0
+SLB,SB,SLB,SB,225,EAP,Member State,SLB,Solomon Islands,109040019.0
+SPM,PM,SPM,PM,210,Other,Territory,FRA,Saint-Pierre-et-Miquelon (Fr.),739298.0
+SUR,SR,SUR,SR,233,LCR,Member State,SUR,Suriname,234761693.0
+SXM,SX,SXM,SX,75005,Other,Territory,NLD,Sint Maarten (Neth.),18836091.0
+TTO,TT,TTO,TT,246,LCR,Member State,TTO,Trinidad and Tobago,858436771.0
+VCT,VC,VCT,VC,211,LCR,Member State,VCT,Saint Vincent and the Grenadines,41777362.0
+VEN,VE,VEN,VE,263,LCR,Member State,VEN,Republica Bolivariana de Venezuela,6057376287.0
+VGB,VG,VGB,VG,39,Other,Territory,GBR,British Virgin Islands (U.K.),11354217.0
+VIR,VI,VIR,VI,258,Other,Territory,USA,United States Virgin Islands (U.S.),116530001.0
+ABW,AW,ABW,AW,14,Other,Territory,NLD,Aruba (Neth.),68783056.0
+BES,BQ,BES,BQ,75001,Other,Territory,NLD,"Bonaire, Sint Eustatius and Saba (Neth.)",3363237.0
+BHS,BS,BHS,BS,20,LCR,Member State,BHS,The Bahamas,110820176.0
+COL,CO,COL,CO,57,LCR,Member State,COL,Colombia,6560168380.0
+CUB,CU,CUB,CU,0,Other,Non Member State,CUB,Cuba,1682724949.0
+CUW,CW,CUW,CW,75002,Other,Territory,NLD,CuraÃ§ao (Neth.),77708096.0
+CYM,KY,CYM,KY,48,Other,Territory,GBR,Cayman Islands (U.K.),28695275.0
+HND,HN,HND,HN,111,LCR,Member State,HND,Honduras,1299453638.0
+HTI,HT,,HT,0,LCR,Member State,HIT,Haiti,761847593.0
+JAM,JM,JAM,JM,123,LCR,Member State,JAM,Jamaica,641919184.0
+NIC,NI,NIC,NI,180,LCR,Member State,NIC,Nicaragua,847378249.0
+SLV,SV,SLV,SV,75,LCR,Member State,SLV,El Salvador,1118677488.0
+TCA,TC,TCA,TC,251,Other,Territory,GBR,Turks and Caicos Islands (U.K.),963616.0
+BOL,BO,BOL,BO,33,LCR,Member State,BOL,Bolivia,2453930578.0
+CRI,CR,CRI,,0,LCR,Member State,CRI,Costa Rica,1275490582.0
+ECU,EC,ECU,EC,0,LCR,Member State,ECU,Ecuador,3749700674.0
+GTM,GT,GTM,GT,103,LCR,Member State,GTM,Guatemala,2821002562.0
+MEX,MX,MEX,,0,LCR,Member State,MEX,Mexico,31281139769.0
+PAN,PA,PAN,PA,191,LCR,Member State,PAN,Panama,893334195.0
+PER,PE,PER,PE,195,LCR,Member State,PER,Peru,5723743164.0
+BLZ,BZ,BLZ,BZ,28,LCR,Member State,BLZ,Belize,73576375.0
+UMI,UM,UMI,UM,164,Other,Territory,USA,U.S. Minor Outlying Islands,188953.0
+ARG,AR,ARG,AR,12,LCR,Member State,ARG,Argentina,16098870453.0
+PRY,PY,PRY,PY,194,LCR,Member State,PRY,Paraguay,1649093160.0
+ASM,AS,ASM,AS,5,Other,Territory,USA,American Samoa (U.S.),13160279.0
+CHL,CL,CHL,CL,51,LCR,Member State,CHL,Chile,3918921924.0
+COK,CK,COK,CK,60,Other,Territory,NZL,Cook Islands (N.Z.),2735828.0
+FRA,FR,FRA,FR,55,Other,Territory,FRA,Clipperton Island (Fr.),0.0
+KIR,KI,KIR,KI,135,EAP,Member State,KIR,Kiribati,1630022.0
+NIU,NU,NIU,NU,183,Other,Territory,NZL,Niue (N.Z.),79636.0
+PCN,PN,PCN,PN,197,Other,Territory,GBR,Pitcairn Islands (U.K.),10258.0
+PYF,PF,PYF,PF,87,Other,Territory,FRA,French Polynesia (Fr.),69359228.0
+TKL,TK,TKL,TK,244,Other,Territory,NZL,Tokelau (N.Z.),0.0
+TON,TO,TON,TO,245,EAP,Member State,TON,Tonga,22046280.0
+UMI,UM,UMI,UM,127,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),0.0
+UMI,UM,UMI,UM,22,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),0.0
+UMI,UM,UMI,UM,112,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),0.0
+UMI,UM,UMI,UM,129,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),2694.0
+UMI,UM,UMI,UM,190,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),0.0
+URY,UY,URY,UY,260,LCR,Member State,URY,Uruguay,1584889725.0
+WLF,WF,WLF,WF,266,Other,Territory,FRA,Wallis and Futuna (Fr.),3583963.0
+WSM,WS,WSM,WS,212,EAP,Member State,WSM,Samoa,38024945.0
+,,,,0,,Non-determined legal status area,,Aksai Chin,253659.0
+,,,,0,,Non-determined legal status area,,Chumar East,0.0
+,,,,0,,Non-determined legal status area,,Chumar West,0.0
+,,,,0,,Non-determined legal status area,,Demchok,16616.0
+,,,,0,,Non-determined legal status area,,Jadh Ganga Valley,27406.0
+,,,,0,,Non-determined legal status area,,"Kauirik
+",2389.0
+,,,,0,,Non-determined legal status area,,Lapthal,2027.0
+,,,,0,,Non-determined legal status area,,Shipki Pass,2276.0
+,,,,0,,Non-determined legal status area,,Arunachal Pradesh,104630934.0
+,,,,0,,Non-determined legal status area,,Gilgit Baltistan,283651440.0
+,,,,0,,Non-determined legal status area,,Jammu and Kashmir,803381544.0
+,,,,0,,Non-determined legal status area,,Kalapani,56497.0
+,,,,0,,Non-determined legal status area,,Karakoram Range,64087.0
+,,,,0,,Non-determined legal status area,,Golan Heights,12807542.0
+,,,,0,,Non-determined legal status area,,Ilemi Triangle,47951.0
+,,,,0,,Non-determined legal status area,,No Man's Land,3982796.0
+,,,,0,,Non-determined legal status area,,Shebaa Farms Dispute,143766.0
+,,,,0,,Non-determined legal status area,,UN Buffer Zone,6715530.0
+IOT,IO,,,0,,Non-determined legal status area,,British Indian Ocean Territory,627264.0
+,,,,0,,Non-determined legal status area,,Abyei,1266350.0
+SGS,GS,,,0,,Non-determined legal status area,,South Georgia and South Sandwich Islands,87282.0
+ESH,EH,,,0,,Non-determined legal status area,,Western Sahara,73518059.0
+,,,,0,,Non-determined legal status area,,Doklam,24673.0
+FLK,FK,,,0,,Non-determined legal status area,,Falkland Islands,657797.0
