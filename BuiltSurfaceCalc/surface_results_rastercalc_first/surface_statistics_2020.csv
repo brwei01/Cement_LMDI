@@ -1,0 +1,290 @@
+﻿ISO_A3,ISO_A2,WB_A3,HASC_0,GAUL_0,WB_REGION,WB_STATUS,SOVEREIGN,NAM_0,total_surface,year
+CHN,CN,CHN,CN,147295,EAP,Member State,CHN,China,90125221888.0,2020
+JPN,JP,JPN,JP,126,Other,Member State,JPN,Japan,13903734784.0,2020
+KOR,KR,KOR,KR,202,EAP,Member State,KOR,Republic of Korea,3890295296.0,2020
+PRK,KP,PRK,KP,67,Other,Non Member State,PRK,D. P. R. of Korea,411971424.0,2020
+RUS,RU,RUS,RU,204,ECA,Member State,RUS,Russian Federation,13844353024.0,2020
+IND,IN,IND,IN,115,SAR,Member State,IND,India,40718135296.0,2020
+KAZ,KZ,KAZ,KZ,132,ECA,Member State,KAZ,Kazakhstan,2503499008.0,2020
+KGZ,KG,KGZ,KG,138,ECA,Member State,KGZ,Kyrgyz Republic,732434432.0,2020
+MMR,MM,MMR,MM,171,EAP,Member State,MMR,Myanmar,1319141504.0,2020
+MNG,MN,MNG,MN,0,EAP,Member State,MNG,Mongolia,177306592.0,2020
+VNM,VN,VNM,VN,264,EAP,Member State,VNM,Viet Nam,5336824832.0,2020
+AFG,AF,AFG,AF,1,SAR,Member State,AFG,Afghanistan,650165952.0,2020
+ARE,AE,ARE,AE,255,MENA,Member State,ARE,United Arab Emirates,677577280.0,2020
+AZE,AZ,AZE,AZ,0,ECA,Member State,AZE,Azerbaijan,904350848.0,2020
+BLR,BY,BLR,BY,26,ECA,Member State,BLR,Belarus,1373282304.0,2020
+BTN,BT,BTN,BT,31,SAR,Member State,BTN,Bhutan,35621328.0,2020
+GEO,GE,GEO,GE,0,ECA,Member State,GEO,Georgia,535632416.0,2020
+IRN,IR,IRN,IR,117,MENA,Member State,IRN,Islamic Republic of Iran,4536135680.0,2020
+LVA,LV,LVA,LV,140,ECA,Member State,LVA,Latvia,288202912.0,2020
+MDA,MD,MDA,MD,0,ECA,Member State,MDA,Moldova,524900320.0,2020
+NPL,NP,NPL,NP,175,SAR,Member State,NPL,Nepal,1196712832.0,2020
+OMN,OM,OMN,OM,187,MENA,Member State,OMN,Oman,468021312.0,2020
+PAK,PK,PAK,PK,188,SAR,Member State,PAK,Pakistan,6510010368.0,2020
+ROU,RO,ROM,,0,ECA,Member State,ROM,Romania,2460446208.0,2020
+TJK,TJ,TJK,TJ,239,ECA,Member State,TJK,Tajikistan,778173824.0,2020
+TKM,TM,TKM,TM,250,ECA,Member State,TKM,Turkmenistan,808247232.0,2020
+TUR,TR,TUR,TR,249,ECA,Member State,TUR,TÃ¼rkiye,3722505984.0,2020
+UKR,UA,UKR,UA,254,ECA,Member State,UKR,Ukraine,4360521728.0,2020
+UZB,UZ,UZB,UZ,261,ECA,Member State,UZB,Uzbekistan,4043596544.0,2020
+ARM,AM,ARM,AM,13,ECA,Member State,ARM,Armenia,241520080.0,2020
+BHR,BH,BHR,BH,21,MENA,Member State,BHR,Bahrain,84771528.0,2020
+CYP,CY,CYP,CY,0,ECA,Member State,CYP,Cyprus,149237120.0,2020
+DJI,DJ,DJI,DJ,70,MENA,Member State,DJI,Djibouti,21100260.0,2020
+EGY,EG,EGY,EG,40765,MENA,Member State,EGY,Arab Republic of Egypt,3375628288.0,2020
+ERI,ER,ERI,ER,77,AFR,Member State,ERI,Eritrea,116666872.0,2020
+ETH,ET,ETH,ET,0,AFR,Member State,ETH,Ethiopia,2835598080.0,2020
+FIN,FI,FIN,FI,84,Other,Member State,FIN,Finland,607861632.0,2020
+GBR,GB,GBR,GB,256,Other,Territory,GBR,Sovereign Base Areas of Akrotiri and Dhekelia (U.K.),4900363.0,2020
+IRQ,IQ,,IQ,118,MENA,Member State,IRQ,Iraq,1700308224.0,2020
+ISR,IL,ISR,IL,121,Other,Member State,ISR,Israel,502047360.0,2020
+JOR,JO,JOR,JO,130,MENA,Member State,JOR,Jordan,355395360.0,2020
+KEN,KE,KEN,KE,133,AFR,Member State,KEN,Kenya,3265248256.0,2020
+KWT,KW,KWT,KW,137,MENA,Member State,KWT,Kuwait,234510832.0,2020
+LBN,LB,LBN,LB,141,MENA,Member State,LBN,Lebanon,314227008.0,2020
+NOR,NO,NOR,NO,186,Other,Member State,NOR,Norway,425295936.0,2020
+PSE,GZ,WBG,PS,91,MENA,Territory,PSE,West Bank and Gaza,242636544.0,2020
+QAT,QA,QAT,QA,201,MENA,Member State,QAT,Qatar,228265968.0,2020
+SAU,SA,SAU,SA,215,MENA,Member State,SAU,Saudi Arabia,3040147968.0,2020
+SDN,SD,SDN,SD,6,AFR,Member State,SDN,Sudan,1769716480.0,2020
+SOM,SO,SOM,SO,226,AFR,Member State,SOM,Somalia,260622432.0,2020
+SSD,SS,SSD,SS,74,AFR,Member State,SSD,South Sudan,219087424.0,2020
+SYR,SY,SYR,SY,238,MENA,Member State,SYR,Syrian Arab Republic,1040263040.0,2020
+UGA,UG,UGA,UG,253,AFR,Member State,UGA,Uganda,2831800832.0,2020
+UKR,UA,UKR,UA,0,ECA,Member State,UKR,Ukraine,320239936.0,2020
+YEM,RY,YEM,YE,269,MENA,Member State,YEM,Republic of Yemen,287278368.0,2020
+ATF,TF,ATF,TF,88,Other,Territory,FRA,French Southern and Antarctic Lands (Fr.),102631.375,2020
+BDI,BI,BDI,BI,0,AFR,Member State,BDI,Burundi,456214656.0,2020
+COD,ZR,DRC,CD,0,AFR,Member State,COD,Democratic Republic of Congo,3016624128.0,2020
+COM,KM,COM,KM,58,AFR,Member State,COM,Comoros,25999050.0,2020
+DNK,DK,DNK,DK,69,Other,Member State,DNK,Denmark,885584832.0,2020
+EST,EE,EST,EE,78,ECA,Member State,EST,Estonia,216161056.0,2020
+GRC,GR,GRC,GR,97,Other,Member State,GRC,Greece,1259764864.0,2020
+HMD,HM,HMD,HM,109,Other,Territory,AUS,Heard Island and McDonald Islands (Aus.),,2020
+LKA,LK,LKA,LK,0,SAR,Member State,LKA,Sri Lanka,1037297536.0,2020
+LSO,LS,LSO,LS,0,AFR,Member State,LSO,Lesotho,226884784.0,2020
+MDG,MG,MDG,MG,0,AFR,Member State,MDG,Madagascar,902735808.0,2020
+MDV,MV,MDV,MV,154,SAR,Member State,MDV,Maldives,2777937.0,2020
+MOZ,MZ,MOZ,MZ,0,AFR,Member State,MOZ,Mozambique,2127497088.0,2020
+MUS,MU,MUS,MU,160,AFR,Member State,MUS,Mauritius,75907320.0,2020
+MWI,MW,MWI,MW,152,AFR,Member State,MWI,Malawi,1180877184.0,2020
+REU,RE,FRA,FR,206,Other,Member State,FRA,France,108756024.0,2020
+RWA,RW,RWA,RW,205,AFR,Member State,RWA,Rwanda,718781184.0,2020
+SWE,SE,SWE,SE,236,Other,Member State,SWE,Sweden,1020081280.0,2020
+SWZ,SZ,SWZ,SZ,0,AFR,Member State,SWZ,Eswatini,173452384.0,2020
+SYC,SC,SYC,SC,220,AFR,Member State,SYC,Seychelles,5077706.5,2020
+TZA,TZ,TZA,TZ,257,AFR,Member State,TZA,Tanzania,4453684736.0,2020
+ZAF,ZA,ZAF,ZA,0,AFR,Member State,ZAF,South Africa,6805480960.0,2020
+ZMB,ZM,ZMB,ZM,0,AFR,Member State,ZMB,Zambia,1515172992.0,2020
+ZWE,ZW,ZWE,ZW,271,AFR,Member State,ZWE,Zimbabwe,1478738304.0,2020
+ALA,AX,FIN,FI,84,Other,Territory,FIN,Aaland (Fin.),3757168.25,2020
+BGR,BG,BGR,BG,41,ECA,Member State,BGR,Bulgaria,930998080.0,2020
+CZE,CZ,CZE,CZ,65,ECA,Member State,CZE,Czech Republic,1474665600.0,2020
+LTU,LT,LTU,LT,147,ECA,Member State,LTU,Lithuania,533038496.0,2020
+MYT,YT,FRA,FR,161,Other,Member State,FRA,France,9337828.0,2020
+POL,PL,POL,PL,198,ECA,Member State,POL,Poland,4967656448.0,2020
+SJM,SJ,SJM,SJ,234,Other,Territory,NOR,Svalbard and Jan Mayen (Nor.),58435.20703125,2020
+SVK,SK,SVK,SK,223,ECA,Member State,SVK,Slovak Republic,728300864.0,2020
+ALB,AL,ALB,AL,3,ECA,Member State,ALB,Albania,258892352.0,2020
+AUT,AT,AUT,AT,18,Other,Member State,AUT,Austria,1243250816.0,2020
+BEL,BE,BEL,BE,27,Other,Member State,BEL,Belgium,1635817600.0,2020
+BIH,BA,BIH,BA,34,ECA,Member State,BIH,Bosnia and Herzegovina,394217888.0,2020
+DEU,DE,DEU,DE,93,Other,Member State,DEU,Germany,10405714944.0,2020
+FRA,FR,FRA,FR,85,Other,Member State,FRA,France,10777126912.0,2020
+GBR,GB,GBR,GB,256,Other,Member State,GBR,United Kingdom,6048674304.0,2020
+GGY,GG,GGY,GG,104,Other,Territory,GBR,Guernsey (U.K.),5319741.0,2020
+HRV,HR,HRV,HR,62,ECA,Member State,HRV,Croatia,546755072.0,2020
+HUN,HU,HUN,HU,113,ECA,Member State,HUN,Hungary,1396784896.0,2020
+IMN,IM,IMY,IM,120,Other,Territory,GBR,Isle of Man (U.K.),7068738.5,2020
+IRL,IE,IRL,IE,119,Other,Member State,IRL,Ireland,810171840.0,2020
+ITA,IT,ITA,IT,122,Other,Member State,ITA,Italy,7480150016.0,2020
+JEY,JE,JEY,JE,128,Other,Territory,GBR,Jersey (U.K.),7064340.5,2020
+LUX,LU,LUX,LU,148,Other,Member State,LUX,Luxembourg,73300376.0,2020
+MKD,MK,MKD,MK,241,ECA,Member State,MKD,North Macedonia,190282416.0,2020
+MNE,ME,MNE,ME,2647,ECA,Member State,MNE,Montenegro,42549948.0,2020
+NLD,NL,NLD,NL,177,Other,Member State,NLD,Netherlands,2051212416.0,2020
+SRB,YF,SRB,RS,2648,ECA,Member State,SRB,Serbia,877127232.0,2020
+SVN,SI,SVN,SI,224,ECA,Member State,SVN,Slovenia,279736896.0,2020
+XKX,XK,XKX,XK,75008,ECA,Member State,XKX,Kosovo,108194472.0,2020
+AND,AD,ADO,AD,7,Other,Member State,AND,Andorra,2447187.5,2020
+CHE,CH,CHE,CH,237,Other,Member State,CHE,Switzerland,857802432.0,2020
+DZA,DZ,DZA,DZ,4,MENA,Member State,DZA,Algeria,2447870720.0,2020
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,Ceuta (Sp.),2124981.75,2020
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,Las Islas Chafarinas (Sp.),,2020
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,Melilla (Sp.),2842202.0,2020
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,PeÃ±Ã³n de Alhucaimas (Sp.),,2020
+ESP,ES,ESP,ES,229,MENA,Territory,ESP,PeÃ±Ã³n de VÃ©lez de la Gomera (Sp.),,2020
+ESP,ES,ESP,ES,229,Other,Member State,ESP,Spain,4819275264.0,2020
+FRO,FO,FRO,FO,82,Other,Territory,DNK,Faroe Islands (Den.),123570.296875,2020
+GIB,GI,GBR,GB,0,Other,Territory,GBR,Gibraltar (U.K.),895748.4375,2020
+LBY,LY,LBY,LY,145,MENA,Member State,LBY,Libya,1075512192.0,2020
+LIE,LI,LIE,LI,146,Other,Non Member State,LIE,Liechtenstein,5673980.0,2020
+MAR,MA,MAR,MA,169,MENA,Member State,MAR,Morocco,902470208.0,2020
+MCO,MC,MCO,MC,166,Other,Non Member State,MCO,Monaco,681604.375,2020
+MLT,MT,MLT,MT,156,MENA,Member State,MLT,Malta,36682476.0,2020
+PRT,PT,PRT,PT,74578,Other,Member State,PRT,Portugal,23760414.0,2020
+PRT,PT,PRT,PT,199,Other,Member State,PRT,Portugal,1437989120.0,2020
+PRT,PT,PRT,PT,151,Other,Member State,PRT,Portugal,22191628.0,2020
+SMR,SM,SMR,SM,213,Other,Member State,SMR,San Marino,4505766.0,2020
+TUN,TN,TUN,TN,248,MENA,Member State,TUN,Tunisia,1221198848.0,2020
+VAT,VA,VAT,VA,110,Other,Non Member State,VAT,Vatican City,219448.921875,2020
+BEN,BJ,BEN,,0,AFR,Member State,BEN,Benin,790565312.0,2020
+BFA,BF,BFA,BF,42,AFR,Member State,BFA,Burkina Faso,1366099840.0,2020
+CAF,CF,CAF,CF,49,AFR,Member State,CAF,Central African Republic,223145808.0,2020
+CIV,CI,CIV,CI,66,AFR,Member State,CIV,CÃ´te d'Ivoire,1365223936.0,2020
+CMR,CM,CMR,CM,45,AFR,Member State,CMR,Cameroon,1324119552.0,2020
+GHA,GH,GHA,GH,0,AFR,Member State,GHA,Ghana,2071131648.0,2020
+ISL,IS,ISL,IS,114,Other,Member State,ISL,Iceland,33353628.0,2020
+MLI,ML,MLI,ML,0,AFR,Member State,MLI,Mali,1129447552.0,2020
+NER,NE,NER,NE,0,AFR,Member State,NER,Niger,800088704.0,2020
+NGA,NG,NGA,NG,0,AFR,Member State,NGA,Nigeria,8788948992.0,2020
+TCD,TD,TCD,TD,50,AFR,Member State,TCD,Chad,613323968.0,2020
+TGO,TG,TGO,TG,0,AFR,Member State,TGO,Togo,510074048.0,2020
+USA,US,USA,US,259,Other,Member State,USA,United States of America,65644621824.0,2020
+AGO,AO,AGO,AO,8,AFR,Member State,AGO,Angola,1401876864.0,2020
+BWA,BW,BWA,BW,35,AFR,Member State,BWA,Botswana,518097632.0,2020
+COG,CG,COG,CG,59,AFR,Member State,COG,Congo,257917216.0,2020
+GAB,GA,GAB,GA,89,AFR,Member State,GAB,Gabon,151839328.0,2020
+GNQ,GQ,GNQ,GQ,76,AFR,Member State,GNQ,Equatorial Guinea,61958560.0,2020
+GRL,GL,GRL,GL,98,Other,Territory,DNK,Greenland (Den.),2298713.75,2020
+LBR,LR,LBR,LR,144,AFR,Member State,LBR,Liberia,214083264.0,2020
+NAM,NA,NAM,NA,172,AFR,Member State,NAM,Namibia,339295232.0,2020
+ZWE,ZW,ZWE,,0,AFR,Member State,ZWE,Zimbabwe,389424.9375,2020
+BRA,BR,BRA,BR,37,LCR,Member State,BRA,Brazil,17389981696.0,2020
+BVT,BV,BVT,BV,36,Other,Territory,NOR,Bouvet Island (Nor.),,2020
+CPV,CV,CPV,CV,0,AFR,Member State,CPV,Cabo Verde,24637748.0,2020
+FJI,FJ,FJI,FJ,83,EAP,Member State,FJI,Fiji,87025664.0,2020
+GIN,GN,GIN,GN,106,AFR,Member State,GIN,Guinea,704538624.0,2020
+MRT,MR,MRT,MR,0,AFR,Member State,MRT,Mauritania,246984784.0,2020
+SHN,SH,SHN,SH,207,Other,Territory,GBR,"Saint Helena, Ascension and Tristan da Cunha (U.K.)",629442.5,2020
+STP,ST,STP,ST,214,AFR,Member State,STP,SÃ£o TomÃ© and PrÃ­ncipe,7750115.5,2020
+GMB,GM,GMB,GM,0,AFR,Member State,GMB,The Gambia,119341792.0,2020
+GNB,GW,GNB,GW,105,AFR,Member State,GNB,Guinea-Bissau,103657744.0,2020
+GUM,GU,GUM,GU,101,Other,Territory,USA,Guam (U.S.),17334100.0,2020
+MNP,MP,MNP,MP,185,Other,Territory,USA,Northern Mariana Islands (U.S.),4725604.5,2020
+PHL,PH,PHL,PH,0,EAP,Member State,PHL,Philippines,2509488640.0,2020
+SEN,SN,SEN,SN,0,AFR,Member State,SEN,Senegal,752023808.0,2020
+SLE,SL,SLE,SL,221,AFR,Member State,SLE,Sierra Leone,239725328.0,2020
+UMI,UM,UMI,UM,265,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),49362.1484375,2020
+BGD,BD,BGD,BD,23,SAR,Member State,BGD,Bangladesh,2866089728.0,2020
+BRN,BN,BRN,BN,40,Other,Member State,BRN,Brunei Darussalam,55119840.0,2020
+HKG,HK,HKG,HK,33364,EAP,Special Administrative Region,CHN,"Hong Kong SAR, China",79077928.0,2020
+IDN,ID,IDN,ID,116,EAP,Member State,IDN,Indonesia,11119300608.0,2020
+KHM,KH,KHM,KH,0,EAP,Member State,KHM,Cambodia,872606592.0,2020
+LAO,LA,LAO,LA,139,EAP,Member State,LAO,Lao People's Democratic Republic,371494944.0,2020
+MAC,MO,MAC,MO,149,EAP,Special Administrative Region,CHN,"Macau SAR, China",6610864.0,2020
+MYS,MY,MYS,MY,153,EAP,Member State,MYS,Malaysia,2195074560.0,2020
+PLW,PW,PLW,PW,189,EAP,Member State,PLW,Palau,1022631.3125,2020
+THA,TH,THA,TH,240,EAP,Member State,THA,Thailand,7183002624.0,2020
+TLS,TP,TMP,TL,242,EAP,Member State,TLS,Timor-Leste,53722332.0,2020
+AUS,AU,AUS,AU,17,Other,Member State,AUS,Australia,5525067264.0,2020
+NFK,NF,NFK,NF,184,Other,Territory,AUS,Norfolk Island (Aus.),665537.0,2020
+NZL,NZ,NZL,NZ,179,Other,Member State,NZL,New Zealand,1035079040.0,2020
+PNG,PG,PNG,PG,192,EAP,Member State,PNG,Papua New Guinea,201141104.0,2020
+SGP,SG,SGP,SG,222,Other,Member State,SGP,Singapore,122731120.0,2020
+TUV,TV,TUV,TV,252,EAP,Member State,TUV,Tuvalu,306809.84375,2020
+VUT,VU,VUT,VU,262,EAP,Member State,VUT,Vanuatu,13191747.0,2020
+AIA,AI,AIA,AI,9,Other,Territory,GBR,Anguilla (U.K.),4181577.25,2020
+ATG,AG,ATG,AG,11,LCR,Member State,ATG,Antigua and Barbuda,13907530.0,2020
+AUS,AU,AUS,AU,16,Other,Territory,AUS,Ashmore and Cartier Islands (Aus.),,2020
+BES,BQ,BES,BQ,75003,Other,Territory,NLD,"Bonaire, Sint Eustatius and Saba (Neth.)",164047.046875,2020
+BES,BQ,BES,BQ,75004,Other,Territory,NLD,"Bonaire, Sint Eustatius and Saba (Neth.)",590933.8125,2020
+BLM,BL,BLM,BL,75006,Other,Territory,FRA,Saint-BarthÃ©lemy (Fr.),1185501.25,2020
+BMU,BM,BMU,BM,30,Other,Territory,GBR,Bermuda (U.K.),7236457.0,2020
+BRB,BB,BRB,BB,24,LCR,Member State,BRB,Barbados,40743664.0,2020
+CAN,CA,CAN,CA,46,Other,Member State,CAN,Canada,5477326848.0,2020
+CCK,CC,CCK,CC,56,Other,Territory,AUS,Cocos (Keeling) Islands (Aus.),33400.62109375,2020
+CXR,CX,CXR,CX,54,Other,Territory,AUS,Christmas Island (Aus.),349432.59375,2020
+DMA,DM,DMA,DM,71,LCR,Member State,DMA,Dominica,5396556.0,2020
+DOM,DO,DOM,DO,72,LCR,Member State,DOM,Dominican Republic,536164480.0,2020
+FSM,FM,FSM,FM,163,EAP,Member State,FSM,Federated States of Micronesia,3924611.5,2020
+GLP,GP,FRA,FR,100,Other,Member State,FRA,France,68658184.0,2020
+GRD,GD,GRD,GD,99,LCR,Member State,GRD,Grenada,9082267.0,2020
+GUF,GF,FRA,FR,86,Other,Member State,FRA,France,23286998.0,2020
+GUY,GY,GUY,GY,107,LCR,Member State,GUY,Guyana,60301728.0,2020
+KNA,KN,KNA,KN,208,LCR,Member State,KNA,Saint Kitts and Nevis,8107358.0,2020
+LCA,LC,LCA,LC,209,LCR,Member State,LCA,Saint Lucia,16116168.0,2020
+MAF,MF,MAF,MF,75007,Other,Territory,FRA,Saint-Martin (Fr.),2641988.75,2020
+MHL,MH,MHL,MH,157,EAP,Member State,MHL,Marshall Islands,1244799.25,2020
+MSR,MS,MSR,MS,168,Other,Territory,GBR,Montserrat (U.K.),848587.4375,2020
+MTQ,MQ,FRA,FR,158,Other,Member State,FRA,France,40825632.0,2020
+NCL,NC,NCL,NC,178,Other,Territory,FRA,New Caledonia (Fr.),42669456.0,2020
+NRU,NR,NRU,NR,173,EAP,Member State,NRU,Nauru,593892.6875,2020
+PRI,PR,PRI,PR,200,Other,Territory,USA,Puerto Rico (U.S.),487271872.0,2020
+SLB,SB,SLB,SB,225,EAP,Member State,SLB,Solomon Islands,24885690.0,2020
+SPM,PM,SPM,PM,210,Other,Territory,FRA,Saint-Pierre-et-Miquelon (Fr.),365792.0625,2020
+SUR,SR,SUR,SR,233,LCR,Member State,SUR,Suriname,75466680.0,2020
+SXM,SX,SXM,SX,75005,Other,Territory,NLD,Sint Maarten (Neth.),3787544.0,2020
+TTO,TT,TTO,TT,246,LCR,Member State,TTO,Trinidad and Tobago,173758768.0,2020
+VCT,VC,VCT,VC,211,LCR,Member State,VCT,Saint Vincent and the Grenadines,9640155.0,2020
+VEN,VE,VEN,VE,263,LCR,Member State,VEN,Republica Bolivariana de Venezuela,1595949056.0,2020
+VGB,VG,VGB,VG,39,Other,Territory,GBR,British Virgin Islands (U.K.),4002069.0,2020
+VIR,VI,VIR,VI,258,Other,Territory,USA,United States Virgin Islands (U.S.),24535492.0,2020
+ABW,AW,ABW,AW,14,Other,Territory,NLD,Aruba (Neth.),22892384.0,2020
+BES,BQ,BES,BQ,75001,Other,Territory,NLD,"Bonaire, Sint Eustatius and Saba (Neth.)",4024342.0,2020
+BHS,BS,BHS,BS,20,LCR,Member State,BHS,The Bahamas,43422364.0,2020
+COL,CO,COL,CO,57,LCR,Member State,COL,Colombia,1725225344.0,2020
+CUB,CU,CUB,CU,0,Other,Non Member State,CUB,Cuba,415276064.0,2020
+CUW,CW,CUW,CW,75002,Other,Territory,NLD,CuraÃ§ao (Neth.),35432828.0,2020
+CYM,KY,CYM,KY,48,Other,Territory,GBR,Cayman Islands (U.K.),9088020.0,2020
+HND,HN,HND,HN,111,LCR,Member State,HND,Honduras,614485504.0,2020
+HTI,HT,,HT,0,LCR,Member State,HIT,Haiti,311719520.0,2020
+JAM,JM,JAM,JM,123,LCR,Member State,JAM,Jamaica,234064752.0,2020
+NIC,NI,NIC,NI,180,LCR,Member State,NIC,Nicaragua,326096128.0,2020
+SLV,SV,SLV,SV,75,LCR,Member State,SLV,El Salvador,364762496.0,2020
+TCA,TC,TCA,TC,251,Other,Territory,GBR,Turks and Caicos Islands (U.K.),5145092.0,2020
+BOL,BO,BOL,BO,33,LCR,Member State,BOL,Bolivia,788139584.0,2020
+CRI,CR,CRI,,0,LCR,Member State,CRI,Costa Rica,394417856.0,2020
+ECU,EC,ECU,EC,0,LCR,Member State,ECU,Ecuador,1010703680.0,2020
+GTM,GT,GTM,GT,103,LCR,Member State,GTM,Guatemala,1008581696.0,2020
+MEX,MX,MEX,,0,LCR,Member State,MEX,Mexico,10490732544.0,2020
+PAN,PA,PAN,PA,191,LCR,Member State,PAN,Panama,310626304.0,2020
+PER,PE,PER,PE,195,LCR,Member State,PER,Peru,1608074752.0,2020
+BLZ,BZ,BLZ,BZ,28,LCR,Member State,BLZ,Belize,52282596.0,2020
+UMI,UM,UMI,UM,164,Other,Territory,USA,U.S. Minor Outlying Islands,85023.5,2020
+ARG,AR,ARG,AR,12,LCR,Member State,ARG,Argentina,4280299520.0,2020
+PRY,PY,PRY,PY,194,LCR,Member State,PRY,Paraguay,619340864.0,2020
+ASM,AS,ASM,AS,5,Other,Territory,USA,American Samoa (U.S.),4349306.0,2020
+CHL,CL,CHL,CL,51,LCR,Member State,CHL,Chile,1434110336.0,2020
+COK,CK,COK,CK,60,Other,Territory,NZL,Cook Islands (N.Z.),1363302.0,2020
+FRA,FR,FRA,FR,55,Other,Territory,FRA,Clipperton Island (Fr.),,2020
+KIR,KI,KIR,KI,135,EAP,Member State,KIR,Kiribati,819185.0,2020
+NIU,NU,NIU,NU,183,Other,Territory,NZL,Niue (N.Z.),39548.66015625,2020
+PCN,PN,PCN,PN,197,Other,Territory,GBR,Pitcairn Islands (U.K.),5581.818359375,2020
+PYF,PF,PYF,PF,87,Other,Territory,FRA,French Polynesia (Fr.),15489970.0,2020
+TKL,TK,TKL,TK,244,Other,Territory,NZL,Tokelau (N.Z.),,2020
+TON,TO,TON,TO,245,EAP,Member State,TON,Tonga,7785302.0,2020
+UMI,UM,UMI,UM,127,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),,2020
+UMI,UM,UMI,UM,22,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),,2020
+UMI,UM,UMI,UM,112,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),,2020
+UMI,UM,UMI,UM,129,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),1462.648681640625,2020
+UMI,UM,UMI,UM,190,Other,Territory,USA,U.S. Minor Outlying Islands (U.S.),,2020
+URY,UY,URY,UY,260,LCR,Member State,URY,Uruguay,412562720.0,2020
+WLF,WF,WLF,WF,266,Other,Territory,FRA,Wallis and Futuna (Fr.),1617799.25,2020
+WSM,WS,WSM,WS,212,EAP,Member State,WSM,Samoa,14821873.0,2020
+,,,,0,,Non-determined legal status area,,Aksai Chin,171812.8125,2020
+,,,,0,,Non-determined legal status area,,Chumar East,,2020
+,,,,0,,Non-determined legal status area,,Chumar West,,2020
+,,,,0,,Non-determined legal status area,,Demchok,9331.033203125,2020
+,,,,0,,Non-determined legal status area,,Jadh Ganga Valley,17139.357421875,2020
+,,,,0,,Non-determined legal status area,,"Kauirik
+",1960.571044921875,2020
+,,,,0,,Non-determined legal status area,,Lapthal,1431.33984375,2020
+,,,,0,,Non-determined legal status area,,Shipki Pass,1824.8919677734375,2020
+,,,,0,,Non-determined legal status area,,Arunachal Pradesh,52973076.0,2020
+,,,,0,,Non-determined legal status area,,Gilgit Baltistan,241044272.0,2020
+,,,,0,,Non-determined legal status area,,Jammu and Kashmir,520661440.0,2020
+,,,,0,,Non-determined legal status area,,Kalapani,33052.25,2020
+,,,,0,,Non-determined legal status area,,Karakoram Range,43200.1015625,2020
+,,,,0,,Non-determined legal status area,,Golan Heights,6278437.0,2020
+,,,,0,,Non-determined legal status area,,Ilemi Triangle,69884.046875,2020
+,,,,0,,Non-determined legal status area,,No Man's Land,1450124.75,2020
+,,,,0,,Non-determined legal status area,,Shebaa Farms Dispute,100718.015625,2020
+,,,,0,,Non-determined legal status area,,UN Buffer Zone,2639787.5,2020
+IOT,IO,,,0,,Non-determined legal status area,,British Indian Ocean Territory,309685.96875,2020
+,,,,0,,Non-determined legal status area,,Abyei,2653703.0,2020
+SGS,GS,,,0,,Non-determined legal status area,,South Georgia and South Sandwich Islands,41217.453125,2020
+ESH,EH,,,0,,Non-determined legal status area,,Western Sahara,21113696.0,2020
+,,,,0,,Non-determined legal status area,,Doklam,18015.912109375,2020
+FLK,FK,,,0,,Non-determined legal status area,,Falkland Islands,355625.34375,2020
