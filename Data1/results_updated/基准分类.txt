@@ -1,0 +1,18 @@
+输出文件	方法	基准
+C5_CS_Tapio_results_5_yrs_interval.csv	标准 Tapio	前期值
+C5_CS_Tapio_results_35yrs_interval.csv	均值基准 Tapio	时间段均值
+GDP_CE_Decoupling_5yrs_interval.csv	标准 Tapio	前期值
+GDP_CE_Decoupling_total_interval.csv	均值基准 Tapio	时间段均值
+Global_GDP_CE_Decoupling_5yrs_interval.csv	标准 Tapio	前期值
+Global_GDP_CE_Decoupling_total.csv	均值基准 Tapio	时间段均值
+Region_* 系列	均值基准 Tapio	时间段均值
+
+
+
+现在这样是合理的，不需要统一。两种方法用在不同场景，互为补充：
+
+标准 Tapio（前期值基准） → 用于 5 年间隔，反映短期动态变化趋势，能看到每个时间段的脱钩状态演变
+均值基准 Tapio → 用于 整体时段（35年跨度），避免因起始年数值过小导致弹性极端化
+这在脱钩研究中是常见做法。如果对 35 年跨度也用标准 Tapio（以 1975 年值为分母），某些国家早期 GDP 或碳吸收量很低，会产生巨大的变化率，弹性系数失真。均值基准正好解决这个问题。
+
+唯一需要注意的是在论文中明确说明每种结果用的是哪种计算方法，避免读者混淆。s

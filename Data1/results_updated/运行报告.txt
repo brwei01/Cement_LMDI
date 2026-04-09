@@ -1,0 +1,210 @@
+(mixb) apple@Ruis-MacBook-Pro Cement_LMDI % python Processor_CFP_APC_fixed.py
+处理文件: Data1/processed/CO2EmissionsFromEnergy.csv
+处理文件: Data1/processed/CarbonSequestration.csv
+  丢失国家: ['Other Northern Africa', 'Other Europe', 'Other South America', 'Middle Africa', 'Trinidad & Tobago', 'USSR', 'Other CIS', 'Other Asia Pacific', 'Western Africa', 'Other Southern Africa', 'Central America', 'Other Caribbean', 'Eastern Africa', 'Other Middle East']
+处理文件: Data1/processed/PrimaryEnergyConsumption.csv
+处理文件: Data1/processed/Population.csv
+  丢失国家: ['Taiwan', 'Korea, Republic of']
+处理文件: Data1/processed/GDP.csv
+处理文件: Data1/processed/CementProduction.csv
+处理文件: Data1/processed/SurfaceArea.csv
+
+✅ 合并完成: (810, 10), 76 个国家
+  ⚠️ 列 'total_CE' 有 29 个 NaN（保留，不填充）
+  ⚠️ 列 'energy_consumption' 有 29 个 NaN（保留，不填充）
+  ⚠️ 列 'GDP' 有 67 个 NaN（保留，不填充）
+  ⚠️ 列 'cement_CS' 有 20 个零值 → 标记为 NaN
+  ⚠️ 列 'cement_production' 有 32 个零值 → 标记为 NaN
+
+执行单位转换...
+清洗后: 760 行, 76 个国家
+因子计算完成: 760 行
+
+======================================================================
+数据可用性报告: 76 个国家
+有数据问题的国家: 28 个
+======================================================================
+
+  🔍 Argentina (Americas)
+     有效起始年: 1985, 有效数据点: 8/10
+     问题: GDP: NaN@[1975, 1980]
+
+  🔍 Azerbaijan (Asia)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Belarus (Europe)
+     有效起始年: 1995, 有效数据点: 6/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]
+
+  🔍 Brazil (Americas)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Bulgaria (Europe)
+     有效起始年: 1980, 有效数据点: 9/10
+     问题: GDP: NaN@[1975]
+
+  🔍 Croatia (Europe)
+     有效起始年: 1995, 有效数据点: 6/10
+     问题: total_CE: NaN@[1975, 1980, 1985]; cement_CS: NaN@[1975, 1980, 1985, 1990]; energy_consumption: NaN@[1975, 1980, 1985]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990]
+
+  🔍 Czechia (Europe)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Estonia (Europe)
+     有效起始年: 1995, 有效数据点: 6/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]
+
+  🔍 Iceland (Europe)
+     有效起始年: 1975, 有效数据点: 8/10
+     问题: cement_production: NaN@[2015, 2020]
+
+  🔍 Kazakhstan (Asia)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Kuwait (Asia)
+     有效起始年: 1980, 有效数据点: 9/10
+     问题: cement_CS: NaN@[1975]; cement_production: NaN@[1975]
+
+  🔍 Latvia (Europe)
+     有效起始年: 1995, 有效数据点: 5/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]; cement_production: NaN@[2000]
+
+  🔍 Lithuania (Europe)
+     有效起始年: 1995, 有效数据点: 6/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]
+
+  🔍 North Macedonia (Europe)
+     有效起始年: 2020, 有效数据点: 1/10
+     问题: total_CE: NaN@[1975, 1980, 1985]; cement_CS: NaN@[1975, 1980, 1985, 1990]; energy_consumption: NaN@[1975, 1980, 1985]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015]
+
+  🔍 Oman (Asia)
+     有效起始年: 1985, 有效数据点: 8/10
+     问题: cement_CS: NaN@[1975, 1980]; cement_production: NaN@[1975, 1980]
+
+  🔍 Peru (Americas)
+     有效起始年: 1985, 有效数据点: 8/10
+     问题: GDP: NaN@[1975, 1980]
+
+  🔍 Poland (Europe)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Romania (Europe)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Russia (Unknown)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Singapore (Asia)
+     有效起始年: 1975, 有效数据点: 6/10
+     问题: cement_production: NaN@[2005, 2010, 2015, 2020]
+
+  🔍 Slovakia (Europe)
+     有效起始年: 1995, 有效数据点: 6/10
+     问题: cement_CS: NaN@[1975, 1980, 1985, 1990]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990]
+
+  🔍 Slovenia (Europe)
+     有效起始年: 1995, 有效数据点: 6/10
+     问题: total_CE: NaN@[1975, 1980, 1985]; cement_CS: NaN@[1975, 1980, 1985, 1990]; energy_consumption: NaN@[1975, 1980, 1985]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990]
+
+  🔍 Turkmenistan (Asia)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Ukraine (Europe)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]
+
+  🔍 United Arab Emirates (Asia)
+     有效起始年: 1980, 有效数据点: 9/10
+     问题: cement_CS: NaN@[1975]; cement_production: NaN@[1975]
+
+  🔍 Uzbekistan (Asia)
+     有效起始年: 1990, 有效数据点: 7/10
+     问题: total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]
+
+  🔍 Venezuela (Unknown)
+     有效起始年: 1975, 有效数据点: 8/10
+     问题: GDP: NaN@[2015, 2020]
+
+  🔍 Vietnam (Unknown)
+     有效起始年: 1985, 有效数据点: 8/10
+     问题: GDP: NaN@[1975, 1980]
+
+======================================================================
+LMDI 分解（5年间隔）
+======================================================================
+
+⚠️ 共跳过 75 个无效区间:
+   Croatia: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Belarus: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Estonia: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   North Macedonia: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Lithuania: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Slovenia: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Slovakia: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Latvia: 跳过 4 个区间 (1975-1980, 1980-1985, 1985-1990, 1990-1995)
+   Kazakhstan: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Azerbaijan: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Uzbekistan: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Ukraine: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Turkmenistan: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Czechia: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Brazil: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Romania: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Russia: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Poland: 跳过 3 个区间 (1975-1980, 1980-1985, 1985-1990)
+   Peru: 跳过 2 个区间 (1975-1980, 1980-1985)
+   Venezuela: 跳过 2 个区间 (2010-2015, 2015-2020)
+   Argentina: 跳过 2 个区间 (1975-1980, 1980-1985)
+   Oman: 跳过 2 个区间 (1975-1980, 1980-1985)
+   Vietnam: 跳过 2 个区间 (1975-1980, 1980-1985)
+   Bulgaria: 跳过 1 个区间 (1975-1980)
+   Kuwait: 跳过 1 个区间 (1975-1980)
+   United Arab Emirates: 跳过 1 个区间 (1975-1980)
+
+✅ LMDI 分解完成: 609 条有效结果
+验证: ΔTotal vs ΔSum 最大误差 = 1.16e-10
+
+======================================================================
+LMDI 分解（首尾年对比）
+======================================================================
+✅ 完成: 76 个国家
+
+📌 以下国家因早期数据缺失，基期晚于 1975:
+   Argentina: 1985 → 2020 (35年)
+   Azerbaijan: 1990 → 2020 (30年)
+   Belarus: 1995 → 2020 (25年)
+   Brazil: 1990 → 2020 (30年)
+   Bulgaria: 1980 → 2020 (40年)
+   Croatia: 1995 → 2020 (25年)
+   Czechia: 1990 → 2020 (30年)
+   Estonia: 1995 → 2020 (25年)
+   Kazakhstan: 1990 → 2020 (30年)
+   Kuwait: 1980 → 2020 (40年)
+   Latvia: 1995 → 2020 (25年)
+   Lithuania: 1995 → 2020 (25年)
+   North Macedonia: 1995 → 2020 (25年)
+   Oman: 1985 → 2020 (35年)
+   Peru: 1985 → 2020 (35年)
+   Poland: 1990 → 2020 (30年)
+   Romania: 1990 → 2020 (30年)
+   Russia: 1990 → 2020 (30年)
+   Slovakia: 1995 → 2020 (25年)
+   Slovenia: 1995 → 2020 (25年)
+   Turkmenistan: 1990 → 2020 (30年)
+   Ukraine: 1990 → 2020 (30年)
+   United Arab Emirates: 1980 → 2020 (40年)
+   Uzbekistan: 1990 → 2020 (30年)
+   Vietnam: 1985 → 2020 (35年)
+
+✅ 全部完成！
+   5年间隔 LMDI: 609 条
+   首尾年 LMDI:  76 条
+   跳过的无效区间: 75 个

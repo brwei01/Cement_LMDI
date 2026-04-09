@@ -1,0 +1,77 @@
+Countries,region,first_valid_year,last_valid_year,n_valid_years,total_years,issues
+Algeria,Africa,1975,2020,10,10,
+Argentina,Americas,1985,2020,8,10,"GDP: NaN@[1975, 1980]"
+Australia,Oceania,1975,2020,10,10,
+Austria,Europe,1975,2020,10,10,
+Azerbaijan,Asia,1990,2020,7,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]"
+Bangladesh,Asia,1975,2020,10,10,
+Belarus,Europe,1995,2020,6,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]"
+Belgium,Europe,1975,2020,10,10,
+Brazil,Americas,1990,2020,7,10,"GDP: NaN@[1975, 1980, 1985]"
+Bulgaria,Europe,1980,2020,9,10,GDP: NaN@[1975]
+Canada,Americas,1975,2020,10,10,
+Chile,Americas,1975,2020,10,10,
+China,Asia,1975,2020,10,10,
+Colombia,Americas,1975,2020,10,10,
+Croatia,Europe,1995,2020,6,10,"total_CE: NaN@[1975, 1980, 1985]; cement_CS: NaN@[1975, 1980, 1985, 1990]; energy_consumption: NaN@[1975, 1980, 1985]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990]"
+Cyprus,Asia,1975,2020,10,10,
+Czechia,Europe,1990,2020,7,10,"GDP: NaN@[1975, 1980, 1985]"
+Denmark,Europe,1975,2020,10,10,
+Ecuador,Americas,1975,2020,10,10,
+Egypt,Africa,1975,2020,10,10,
+Estonia,Europe,1995,2020,6,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]"
+Finland,Europe,1975,2020,10,10,
+France,Europe,1975,2020,10,10,
+Germany,Europe,1975,2020,10,10,
+Greece,Europe,1975,2020,10,10,
+Hong Kong,Asia,1975,2020,10,10,
+Hungary,Europe,1975,2020,10,10,
+Iceland,Europe,1975,2010,8,10,"cement_production: NaN@[2015, 2020]"
+India,Asia,1975,2020,10,10,
+Indonesia,Asia,1975,2020,10,10,
+Iran,Unknown,1975,2020,10,10,
+Iraq,Asia,1975,2020,10,10,
+Ireland,Europe,1975,2020,10,10,
+Israel,Asia,1975,2020,10,10,
+Italy,Europe,1975,2020,10,10,
+Japan,Asia,1975,2020,10,10,
+Kazakhstan,Asia,1990,2020,7,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]"
+Kuwait,Asia,1980,2020,9,10,cement_CS: NaN@[1975]; cement_production: NaN@[1975]
+Latvia,Europe,1995,2020,5,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]; cement_production: NaN@[2000]"
+Lithuania,Europe,1995,2020,6,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985, 1990]"
+Luxembourg,Europe,1975,2020,10,10,
+Malaysia,Asia,1975,2020,10,10,
+Mexico,Americas,1975,2020,10,10,
+Morocco,Africa,1975,2020,10,10,
+Netherlands,Unknown,1975,2020,10,10,
+New Zealand,Oceania,1975,2020,10,10,
+North Macedonia,Europe,2020,2020,1,10,"total_CE: NaN@[1975, 1980, 1985]; cement_CS: NaN@[1975, 1980, 1985, 1990]; energy_consumption: NaN@[1975, 1980, 1985]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015]"
+Norway,Europe,1975,2020,10,10,
+Oman,Asia,1985,2020,8,10,"cement_CS: NaN@[1975, 1980]; cement_production: NaN@[1975, 1980]"
+Pakistan,Asia,1975,2020,10,10,
+Peru,Americas,1985,2020,8,10,"GDP: NaN@[1975, 1980]"
+Philippines,Asia,1975,2020,10,10,
+Poland,Europe,1990,2020,7,10,"GDP: NaN@[1975, 1980, 1985]"
+Portugal,Europe,1975,2020,10,10,
+Qatar,Asia,1975,2020,10,10,
+Romania,Europe,1990,2020,7,10,"GDP: NaN@[1975, 1980, 1985]"
+Russia,Unknown,1990,2020,7,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]"
+Saudi Arabia,Asia,1975,2020,10,10,
+Singapore,Asia,1975,2000,6,10,"cement_production: NaN@[2005, 2010, 2015, 2020]"
+Slovakia,Europe,1995,2020,6,10,"cement_CS: NaN@[1975, 1980, 1985, 1990]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990]"
+Slovenia,Europe,1995,2020,6,10,"total_CE: NaN@[1975, 1980, 1985]; cement_CS: NaN@[1975, 1980, 1985, 1990]; energy_consumption: NaN@[1975, 1980, 1985]; GDP: NaN@[1975, 1980, 1985]; cement_production: NaN@[1975, 1980, 1985, 1990]"
+South Africa,Africa,1975,2020,10,10,
+Spain,Europe,1975,2020,10,10,
+Sri Lanka,Asia,1975,2020,10,10,
+Sweden,Europe,1975,2020,10,10,
+Switzerland,Europe,1975,2020,10,10,
+Thailand,Asia,1975,2020,10,10,
+Turkey,Asia,1975,2020,10,10,
+Turkmenistan,Asia,1990,2020,7,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]"
+USA,Unknown,1975,2020,10,10,
+Ukraine,Europe,1990,2020,7,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]"
+United Arab Emirates,Asia,1980,2020,9,10,cement_CS: NaN@[1975]; cement_production: NaN@[1975]
+United Kingdom,Unknown,1975,2020,10,10,
+Uzbekistan,Asia,1990,2020,7,10,"total_CE: NaN@[1975, 1980]; energy_consumption: NaN@[1975, 1980]; GDP: NaN@[1975, 1980, 1985]"
+Venezuela,Unknown,1975,2010,8,10,"GDP: NaN@[2015, 2020]"
+Vietnam,Unknown,1985,2020,8,10,"GDP: NaN@[1975, 1980]"
