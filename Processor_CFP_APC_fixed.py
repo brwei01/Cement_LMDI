@@ -584,40 +584,6 @@ def calc_avg_based_gdp_decoupling_total(df, group_col='Countries',
 # ============================================================
 # 14. 全球级 GDP-CE 脱钩（5年间隔 / 整体时段）
 # ============================================================
-def calc_region_gdp_decoupling_5yrs(df, carbon_col='total_CE', gdp_col='GDP'):
-    """
-    区域级 5 年间隔 GDP-CE 脱钩弹性。
-    输入: 已按 region×Year 聚合的 DataFrame（含 region, Year, total_CE, GDP 列）
-    """
-    results = []
-    for region, rdf in df.groupby('region'):
-        rdf = rdf.sort_values('Year')
-        if len(rdf) < 2:
-            continue
-        for idx in range(1, len(rdf)):
-            curr, prev = rdf.iloc[idx], rdf.iloc[idx - 1]
-            CE_curr, CE_prev = curr[carbon_col], prev[carbon_col]
-            GDP_curr, GDP_prev = curr[gdp_col], prev[gdp_col]
-
-            if CE_prev == 0 or GDP_prev == 0:
-                pct_CE = pct_GDP = elasticity = np.nan
-            else:
-                pct_CE = (CE_curr - CE_prev) / CE_prev
-                pct_GDP = (GDP_curr - GDP_prev) / GDP_prev
-                elasticity = pct_CE / pct_GDP if pct_GDP != 0 else np.nan
-
-            results.append({
-                'region': region,
-                'Years': f"{int(prev['Year'])} - {int(curr['Year'])}",
-                'CE_Start': CE_prev, 'CE_End': CE_curr,
-                'GDP_Start': GDP_prev, 'GDP_End': GDP_curr,
-                'pct_CE': pct_CE, 'pct_GDP': pct_GDP,
-                'GDP_Decoupling_Elasticity': elasticity,
-                'Decoupling_State': _classify_decoupling(elasticity, pct_GDP if not pd.isna(pct_GDP) else 0),
-            })
-    return pd.DataFrame(results)
-
-
 def calc_global_gdp_decoupling_5yrs(df, carbon_col='total_CE', gdp_col='GDP'):
     """全球 5 年间隔 GDP-CE 脱钩弹性（基于按年聚合的全球数据）"""
     df = df.sort_values('Year')
@@ -764,30 +730,28 @@ if __name__ == '__main__':
     tapio_total.to_csv(f'{OUT}/C5_CS_Tapio_results_35yrs_interval.csv', index=False, encoding='utf-8-sig')
     print(f"  国家级总 Tapio: {len(tapio_total)} 条")
 
-    # 区域级（从 merged_df 自行聚合，保持数据来源一致）
-    region_agg_cols = ['total_CE', 'cement_CS', 'energy_consumption', 'Population',
-                       'GDP', 'cement_production', 'built_surface']
-    region_factors_df = merged_df.groupby(['region', 'Year'])[region_agg_cols].sum().reset_index()
-    # 重新计算区域级因子（聚合后的比率）
-    region_factors_df['cement_CS/built_surface'] = region_factors_df['cement_CS'] / region_factors_df['built_surface']
-    region_factors_df.to_csv(f'{OUT}/Factors_by_Region_and_Year_5yrs_interval.csv', index=False, encoding='utf-8-sig')
-    print(f"\n  从 merged_df 聚合区域数据: {len(region_factors_df)} 行, "
-          f"{region_factors_df['region'].nunique()} 个区域")
+    # 区域级（从已有的区域聚合文件）
+    region_factors_path = 'Data1/results/Factors_by_Region_and_Year_5yrs_interval.csv'
+    if os.path.exists(region_factors_path):
+        region_factors_df = pd.read_csv(region_factors_path)
+        print(f"\n  已加载区域因子文件: {len(region_factors_df)} 行")
 
-    # 区域级 5 年间隔 Tapio
-    region_C5_grad = calc_grad('cement_CS/built_surface', region_factors_df, group_col='region')
-    region_CS_grad = calc_grad('cement_CS', region_factors_df, group_col='region')
-    region_tapio_5yrs = pd.merge(region_C5_grad, region_CS_grad, on=['region', 'Years'], how='inner')
-    region_tapio_5yrs = region_tapio_5yrs[['region', 'Years', 'grad(cement_CS/built_surface)', 'grad(cement_CS)']]
-    region_tapio_5yrs['tapio_elasticity'] = region_tapio_5yrs['grad(cement_CS/built_surface)'] / region_tapio_5yrs['grad(cement_CS)']
-    region_tapio_5yrs.to_csv(f'{OUT}/Region_C5_CS_Tapio_results_5_yrs_interval.csv', index=False, encoding='utf-8-sig')
-    print(f"  区域级 5 年 Tapio: {len(region_tapio_5yrs)} 条")
+        # 区域级 5 年间隔 Tapio
+        region_C5_grad = calc_grad('cement_CS/built_surface', region_factors_df, group_col='region')
+        region_CS_grad = calc_grad('cement_CS', region_factors_df, group_col='region')
+        region_tapio_5yrs = pd.merge(region_C5_grad, region_CS_grad, on=['region', 'Years'], how='inner')
+        region_tapio_5yrs = region_tapio_5yrs[['region', 'Years', 'grad(cement_CS/built_surface)', 'grad(cement_CS)']]
+        region_tapio_5yrs['tapio_elasticity'] = region_tapio_5yrs['grad(cement_CS/built_surface)'] / region_tapio_5yrs['grad(cement_CS)']
+        region_tapio_5yrs.to_csv(f'{OUT}/Region_C5_CS_Tapio_results_5_yrs_interval.csv', index=False, encoding='utf-8-sig')
+        print(f"  区域级 5 年 Tapio: {len(region_tapio_5yrs)} 条")
 
-    # 区域级整体时段 Tapio
-    region_tapio_total = calc_avg_based_total_tapio(region_factors_df, group_col='region',
-                                                    carbon_col='total_CE', activity_col='built_surface')
-    region_tapio_total.to_csv(f'{OUT}/Region_total_C5_CS_Tapio_results_35yrs_interval.csv', index=False, encoding='utf-8-sig')
-    print(f"  区域级总 Tapio: {len(region_tapio_total)} 条")
+        # 区域级整体时段 Tapio
+        region_tapio_total = calc_avg_based_total_tapio(region_factors_df, group_col='region',
+                                                        carbon_col='total_CE', activity_col='built_surface')
+        region_tapio_total.to_csv(f'{OUT}/Region_total_C5_CS_Tapio_results_35yrs_interval.csv', index=False, encoding='utf-8-sig')
+        print(f"  区域级总 Tapio: {len(region_tapio_total)} 条")
+    else:
+        print(f"  ⚠️ 区域因子文件不存在: {region_factors_path}，跳过区域 Tapio")
 
     # =====================================================
     # C. GDP-CE 脱钩弹性
@@ -806,19 +770,17 @@ if __name__ == '__main__':
     gdp_decoupling_total.to_csv(f'{OUT}/GDP_CE_Decoupling_total_interval.csv', index=False, encoding='utf-8-sig')
     print(f"  国家级总 GDP 脱钩: {len(gdp_decoupling_total)} 条")
 
-    # 区域级 5 年间隔（🆕 新增）
-    region_gdp_5yrs = calc_region_gdp_decoupling_5yrs(region_factors_df)
-    region_gdp_5yrs.to_csv(f'{OUT}/Region_GDP_CE_Decoupling_5yrs_interval.csv', index=False, encoding='utf-8-sig')
-    print(f"  区域级 5 年 GDP 脱钩: {len(region_gdp_5yrs)} 条")
-
     # 区域级整体时段
-    region_gdp_decoupling = calc_avg_based_gdp_decoupling_total(
-        region_factors_df, group_col='region', carbon_col='total_CE', gdp_col='GDP')
-    region_gdp_decoupling.to_csv(f'{OUT}/Region_GDP_CE_Decoupling_total.csv', index=False, encoding='utf-8-sig')
-    print(f"  区域级总 GDP 脱钩: {len(region_gdp_decoupling)} 条")
+    if os.path.exists(region_factors_path):
+        region_gdp_decoupling = calc_avg_based_gdp_decoupling_total(
+            region_factors_df, group_col='region', carbon_col='total_CE', gdp_col='GDP')
+        region_gdp_decoupling.to_csv(f'{OUT}/Region_GDP_CE_Decoupling_total.csv', index=False, encoding='utf-8-sig')
+        print(f"  区域级总 GDP 脱钩: {len(region_gdp_decoupling)} 条")
 
-    # 全球级（使用与区域相同的 region_factors_df 再聚合到全球，保持一致）
-    global_factors_df = region_factors_df.groupby('Year')[region_agg_cols].sum().reset_index()
+    # 全球级（按年聚合后计算）
+    global_agg_cols = ['total_CE', 'cement_CS', 'energy_consumption', 'Population',
+                       'GDP', 'cement_production', 'built_surface']
+    global_factors_df = merged_df.groupby('Year')[global_agg_cols].sum().reset_index()
 
     # 全球 5 年间隔
     global_gdp_5yrs = calc_global_gdp_decoupling_5yrs(global_factors_df)
@@ -831,8 +793,9 @@ if __name__ == '__main__':
     print(f"  全球总 GDP 脱钩: {len(global_gdp_total)} 条")
 
     # 合并区域 + 全球 GDP 脱钩
-    combined_gdp = pd.concat([region_gdp_decoupling, global_gdp_total], ignore_index=True)
-    combined_gdp.to_csv(f'{OUT}/Combined_GDP_CE_Decoupling_total.csv', index=False, encoding='utf-8-sig')
+    if os.path.exists(region_factors_path):
+        combined_gdp = pd.concat([region_gdp_decoupling, global_gdp_total], ignore_index=True)
+        combined_gdp.to_csv(f'{OUT}/Combined_GDP_CE_Decoupling_total.csv', index=False, encoding='utf-8-sig')
 
     # =====================================================
     # 汇总
